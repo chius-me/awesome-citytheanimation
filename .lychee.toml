@@ -20,6 +20,7 @@ exclude = [
   "^https://www\\.awn\\.com/",
   "^https://www\\.billboard\\.com/",
   "^https://www\\.tongli\\.com\\.tw/",
+  "^https://www\\.reddit\\.com/",
 ]
 
 accept = [200, 204, 206, 429]
