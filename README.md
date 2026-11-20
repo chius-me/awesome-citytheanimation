@@ -124,7 +124,7 @@ Curated resources for **CITY THE ANIMATION** & Keiichi Arawi's **CITY** (*Kyoto 
 ## Related Lists
 
 - [awesome-nichijou](https://github.com/chius-me/awesome-nichijou) - Resources for *Nichijou* (2011).
-- [awesome-ghibli-images](https://github.com/chius-me/awesome-ghibli-images) - Studio Ghibli official still galleries and dataset.
+- [awesome-tamako-market](https://github.com/chius-me/awesome-tamako-market) - Resources for *Tamako Market* & *Tamako Love Story* (2013–2014).
 
 ---
 

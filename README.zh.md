@@ -124,7 +124,7 @@
 ## 相关列表
 
 - [awesome-nichijou](https://github.com/chius-me/awesome-nichijou) - 《日常》精选资源清单。
-- [awesome-ghibli-images](https://github.com/chius-me/awesome-ghibli-images) - 吉卜力官方高清剧照画廊与数据集。
+- [awesome-tamako-market](https://github.com/chius-me/awesome-tamako-market) - 《玉子市场》与《玉子爱情故事》精选资源清单。
 
 ---
 
