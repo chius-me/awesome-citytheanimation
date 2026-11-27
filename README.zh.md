@@ -10,7 +10,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License](https://img.shields.io/badge/license-CC0--1.0-blue.svg)](LICENSE)
-[![Link Check](https://github.com/chius-n/awesome-citytheanimation/actions/workflows/links.yml/badge.svg)](https://github.com/chius-n/awesome-citytheanimation/actions/workflows/links.yml)
+[![Link Check](https://github.com/chius-cc/awesome-citytheanimation/actions/workflows/links.yml/badge.svg)](https://github.com/chius-cc/awesome-citytheanimation/actions/workflows/links.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 </div>
@@ -123,8 +123,8 @@
 
 ## 相关列表
 
-- [awesome-nichijou](https://github.com/chius-n/awesome-nichijou) - 《日常》精选资源清单。
-- [awesome-tamako-market](https://github.com/chius-n/awesome-tamako-market) - 《玉子市场》与《玉子爱情故事》精选资源清单。
+- [awesome-nichijou](https://github.com/chius-cc/awesome-nichijou) - 《日常》精选资源清单。
+- [awesome-tamako-market](https://github.com/chius-cc/awesome-tamako-market) - 《玉子市场》与《玉子爱情故事》精选资源清单。
 
 ---
 
