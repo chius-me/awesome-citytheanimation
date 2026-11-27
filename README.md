@@ -10,7 +10,7 @@ Curated resources for **CITY THE ANIMATION** & Keiichi Arawi's **CITY** (*Kyoto 
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License](https://img.shields.io/badge/license-CC0--1.0-blue.svg)](LICENSE)
-[![Link Check](https://github.com/chius-me/awesome-citytheanimation/actions/workflows/links.yml/badge.svg)](https://github.com/chius-me/awesome-citytheanimation/actions/workflows/links.yml)
+[![Link Check](https://github.com/chius-n/awesome-citytheanimation/actions/workflows/links.yml/badge.svg)](https://github.com/chius-n/awesome-citytheanimation/actions/workflows/links.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 </div>
@@ -123,8 +123,8 @@ Curated resources for **CITY THE ANIMATION** & Keiichi Arawi's **CITY** (*Kyoto 
 
 ## Related Lists
 
-- [awesome-nichijou](https://github.com/chius-me/awesome-nichijou) - Resources for *Nichijou* (2011).
-- [awesome-tamako-market](https://github.com/chius-me/awesome-tamako-market) - Resources for *Tamako Market* & *Tamako Love Story* (2013–2014).
+- [awesome-nichijou](https://github.com/chius-n/awesome-nichijou) - Resources for *Nichijou* (2011).
+- [awesome-tamako-market](https://github.com/chius-n/awesome-tamako-market) - Resources for *Tamako Market* & *Tamako Love Story* (2013–2014).
 
 ---
 
